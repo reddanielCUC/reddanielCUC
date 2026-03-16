@@ -1,16 +1,46 @@
-### Hi there 👋
+# Daniel Lemus
 
-estudiante de ingenieria de sistemas 
-#tecnologias que estoy aprendiendo 
-phyton
-git
-javaScript
+## estudiante de ingenieria de sistemas 
 
-enlace de contacto 
-[hola](https://www.instagram.com/reddaniel21?igsh=ZmZ3Y2xzZXBpdmx6)
+### tecnologias que estoy aprendiendo : phyton,git,javaScript
+
+![repositorio](https://img.shields.io/badge/github-repo-blue?logo=github)
+-
+
+[contacto](https://www.instagram.com/reddaniel21?igsh=ZmZ3Y2xzZXBpdmx6)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0be5df74-11a6-4080-82cd-b230da15e917" width="500"/>
+</p>
 
 
-<img width="1080" height="545" alt="image" src="https://github.com/user-attachments/assets/5e48f31a-09ad-460d-8d5d-55a0e8cfead3" />
+
+
+
+
+
+
+## ESTADISTICAS
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reddanielCUC)
+## LENGUAJES
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddanielCUC)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=reddanielCUC)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
