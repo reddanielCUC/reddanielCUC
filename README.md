@@ -25,10 +25,12 @@
 ## LENGUAJES
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddanielCUC)
-
+# racha
 ![GitHub Streak](https://streak-stats.demolab.com/?user=reddanielCUC)
 
+## contador de visitas
 
+<img src="https://komarev.com/ghpvc/?username=reddanielCUC&label=Profile%20views&color=00D4FF&style=plastic">
 
 
 
