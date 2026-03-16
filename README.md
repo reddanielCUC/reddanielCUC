@@ -1,4 +1,5 @@
 # Daniel Lemus
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
 
 ## estudiante de ingenieria de sistemas 
 
@@ -11,7 +12,6 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0be5df74-11a6-4080-82cd-b230da15e917" width="500"/>
 </p>
-
 
 
 
