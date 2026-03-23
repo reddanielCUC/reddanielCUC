@@ -16,7 +16,8 @@ actualmente estoy aprendiendo estructuras de datos (listas enlazadas, multilista
 ##proyectos 
 - [calculadora basica](https://github.com/reddanielCUC/buenaspracticas)
 
-### tecnologias que estoy aprendiendo : python,git,javaScript,github,html
+### tecnologias que estoy aprendiendo : 
+python,git,javaScript,github,html
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,git,github,html" />
 </p>
