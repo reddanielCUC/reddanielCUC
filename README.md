@@ -1,19 +1,32 @@
-# Daniel Lemus
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Daniel+Lemus;estudiante+de+ingenieria+de+sitemas">
+  </p>
+<h1 align="center">hola 👋 soy Daniel Lemus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## estudiante de ingenieria de sistemas 
-
-### tecnologias que estoy aprendiendo : phyton,git,javaScript
-
-![repositorio](https://img.shields.io/badge/github-repo-blue?logo=github)
--
-
-[contacto](https://www.instagram.com/reddaniel21?igsh=ZmZ3Y2xzZXBpdmx6)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/0be5df74-11a6-4080-82cd-b230da15e917" width="500"/>
 </p>
 
+## hola bienvenidos a mi github 
+ Soy un estudiante de ingenieria de sistemas de la  [Universidad de la Costa CUC](https://www.cuc.edu.co/)
+actualmente estoy aprendiendo estructuras de datos (listas enlazadas, multilistas) Git y GitHub tambien en desarrollo web básico 
+- Desarrollador en formación enfocado en crecimiento como **Junior Developer**
+- Interesado en las nuevas tecnologias
 
+##proyectos 
+- [calculadora basica](https://github.com/reddanielCUC/buenaspracticas)
+
+### tecnologias que estoy aprendiendo : python,git,javaScript,github,html
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,git,github,html" />
+</p>
+
+![repositorio](https://img.shields.io/badge/github-repo-blue?logo=github)
+-
+
+[contacto](daniellemusnieto@gmail.com)
+
+<a href="mailto:daniellemusnieto@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 
 
